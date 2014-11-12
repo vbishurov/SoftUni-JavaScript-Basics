@@ -1,5 +1,7 @@
 findMaxSequence([2, 1, 1, 2, 3, 3, 2, 2, 2, 1]);
+console.log();
 findMaxSequence(['happy']);
+console.log();
 findMaxSequence([2, 'qwe', 'qwe', 3, 3, '3']);
 
 function findMaxSequence(arr) {

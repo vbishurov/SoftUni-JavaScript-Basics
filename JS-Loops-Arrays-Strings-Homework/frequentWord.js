@@ -1,5 +1,7 @@
 findMostFreqWord('in the middle of the night');
+console.log();
 findMostFreqWord('Welcome to SoftUni. Welcome to Java. Welcome everyone.');
+console.log();
 findMostFreqWord('Hello my friend, hello my darling. Come on, come here. Welcome, welcome darling.');
 
 function findMostFreqWord(str) {

@@ -1,5 +1,7 @@
 printNumbers(20);
+console.log();
 printNumbers(-5);
+console.log();
 printNumbers(13);
 
 function printNumbers(number) {

@@ -1,5 +1,7 @@
 findMaxSequence([3, 2, 3, 4, 2, 2, 4]);
+console.log();
 findMaxSequence([3, 5, 4, 6, 1, 2, 3, 6, 10, 32]);
+console.log();
 findMaxSequence([3, 2, 1]);
 
 function findMaxSequence(arr) {
